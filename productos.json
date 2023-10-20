@@ -1,0 +1,52 @@
+[
+    {
+        "id": "café-01",
+        "titulo": "Café 01",
+        "imagen": "./Img/Cafe1.jpg",
+        "categoria": {
+            "nombre": "Café",
+            "id": "café"
+        },
+        "precio": 250
+    },
+    {
+        "id": "café-02",
+        "titulo": "Café 02",
+        "imagen": "./Img/Cafe2.jpg",
+        "categoria": {
+            "nombre": "Café",
+            "id": "café"
+        },
+        "precio": 250
+    },
+    {
+        "id": "café-03",
+        "titulo": "Café 03",
+        "imagen": "./Img/Cafe3.jpg",
+        "categoria": {
+            "nombre": "Café",
+            "id": "café"
+        },
+        "precio": 350
+    },
+    {
+        "id": "método-01",
+        "titulo": "Método 01",
+        "imagen": "./Img/Metodo1.jpeg",
+        "categoria": {
+            "nombre": "Método",
+            "id": "método"
+        },
+        "precio": 400
+    },
+    {
+        "id": "método-02",
+        "titulo": "Método 02",
+        "imagen": "./Img/Metodo2.jpeg",
+        "categoria": {
+            "nombre": "Método",
+            "id": "método"
+        },
+        "precio": 400
+    }
+]
